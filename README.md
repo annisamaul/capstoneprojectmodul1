@@ -1,5 +1,5 @@
 
-# Capstone Project Modul 1
+# Capstone Project Module 1
 ## by Annisa Maulinda
 
 This project marks the end of learning module 1 about python in Data Science Class at Purwadhika. Developed as a Capstone Project for Module 1, the code showcases the practical application of programming skills and data management techniques. The primary objective is to create an application with fundamental CRUD functionalities for handling student grade data efficiently.
